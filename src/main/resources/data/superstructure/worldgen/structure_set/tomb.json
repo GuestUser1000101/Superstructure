@@ -1,0 +1,17 @@
+{
+  "structures": [
+    {
+      "structure": "superstructure:tomb",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+
+    "salt": 14342958420,
+
+    "spacing": 24,
+
+    "separation": 12
+  }
+}

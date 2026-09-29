@@ -3,15 +3,15 @@
 	"id": "superstructure",
 	"version": "${version}",
 	"name": "superstructure",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "This is a mod that incentivizes exploration through the addition of various structures. ",
 	"authors": [
-		"Me!"
+		"DerpPickles"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/GuestUser1000101/Superstructure"
 	},
-	"license": "CC0-1.0",
+	"license": "MIT-License",
 	"icon": "assets/superstructure/icon.png",
 	"environment": "*",
 	"entrypoints": {

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "titanium",
+  "ingredients": [
+    "superstructure:dice"
+  ],
+  "result": {
+    "count": 4,
+    "id": "superstructure:titanium"
+  }
+}

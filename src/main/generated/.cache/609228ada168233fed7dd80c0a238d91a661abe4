@@ -1,0 +1,3 @@
+// 26.2	-999999999-01-01T00:00:00	superstructure/Tags for minecraft:block
+be19bd520ebdec3d661b53b8853cd8ba3cd79eb2 data/minecraft/tags/block/mineable/pickaxe.json
+be19bd520ebdec3d661b53b8853cd8ba3cd79eb2 data/minecraft/tags/block/needs_diamond_tool.json

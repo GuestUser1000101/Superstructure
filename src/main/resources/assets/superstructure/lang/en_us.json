@@ -1,0 +1,15 @@
+{
+  "item.superstructure.dice": "Dice",
+  "item.superstructure.titanium": "Titanium",
+  "item.superstructure.titanium_sword": "Titanium Sword",
+  "item.superstructure.buried_spawn_egg": "Buried Spawn Egg",
+  "item.superstructure.buried_trap_spawn_egg": "Buried Trap Spawn Egg",
+
+  "block.superstructure.titanium_ore" :  "Titanium Ore",
+
+  "entity.superstructure.buried": "Buried",
+  "entity.superstructure.buried_trap": "Buried",
+
+
+  "creativemodetab.superstructure.superstructure_items": "Superstructure Items"
+}
